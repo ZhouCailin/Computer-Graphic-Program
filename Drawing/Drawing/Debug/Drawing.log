@@ -1,0 +1,23 @@
+﻿生成启动时间为 2020/7/24 23:55:02。
+     1>项目“C:\Users\周财霖\Documents\Visual Studio 2013\Projects\Drawing\Drawing\Drawing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Drawing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DrawingView.cpp
+         DrawingView.cpp
+     1>c:\users\周财霖\documents\visual studio 2013\projects\drawing\drawing\drawingview.cpp(355): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         H:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\周财霖\Documents\Visual Studio 2013\Projects\Drawing\Debug\Drawing.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:H:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\周财霖\Documents\Visual Studio 2013\Projects\Drawing\Debug\Drawing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\周财霖\Documents\Visual Studio 2013\Projects\Drawing\Debug\Drawing.lib" /MACHINE:X86 Debug\Drawing.res
+         Debug\Fill.obj
+         Debug\Circle.obj
+         Debug\Clip.obj
+         Debug\Drawing.obj
+         Debug\DrawingDoc.obj
+         Debug\DrawingView.obj
+         Debug\Line.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         Drawing.vcxproj -> C:\Users\周财霖\Documents\Visual Studio 2013\Projects\Drawing\Debug\Drawing.exe
+     1>已完成生成项目“C:\Users\周财霖\Documents\Visual Studio 2013\Projects\Drawing\Drawing\Drawing.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04
