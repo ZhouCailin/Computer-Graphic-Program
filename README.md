@@ -1,12 +1,10 @@
 # Computer-Graphic-Program
 C++实现直线，裁剪，圆内接多边形等计算机图形学算法(Cohen-Sutherland, DDA, Bresham, Seed-fill, etc)
-/********************************************
  * Theme: 基本图形学操作
  * Description: CG期末实验
  * Author: 周财霖
  * ID: 16333279
  * Date: 2020/7/24
- *********************************************/
 项目文件：Drawing
 程序文件：Drawing.exe
 
